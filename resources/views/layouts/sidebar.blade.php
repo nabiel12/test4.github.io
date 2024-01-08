@@ -4,7 +4,7 @@
     <div style="background-color: #898d91">
         <a href="{{ route('frondend') }}" class="brand-link">
            
-            <span class="brand-text font-weight-light">{{ config('app.name') }}</span>
+           <h1>App.id</h1>
         </a>
     </div>
     <!-- Sidebar -->

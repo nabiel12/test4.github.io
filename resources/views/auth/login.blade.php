@@ -15,7 +15,7 @@
             <div class="col-md-8">
                 <div class="text-center my-5">
                     
-                    <h1 class="text-white">{{ config('app.name') }}</h1>
+                    <h1 class="text-white">App.id</h1>
                 </div>
                 <div class="card shadow-lg">
                     <div class="card-body p-5">
